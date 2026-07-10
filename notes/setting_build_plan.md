@@ -19,5 +19,5 @@
 ## Phase 4 — アイテム・技術（`settings/items/`）
 固有のガジェットや魔法体系など、必要に応じて。
 
-## Phase 5 — 年表（`settings/timeline.md`）
+## Phase 5 — 年表（`settings/timeline/`）
 設定が揃ってから時系列を整理すると整合性を確認しやすい。
